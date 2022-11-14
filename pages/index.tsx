@@ -44,7 +44,7 @@ const Home: NextPage<HomePageProps> = ({aboutMe}) => {
   return (
     <div className={theme}>
       <Head>
-        <title>Mauricio Fidalgo</title>
+        <title>Mauricio @didicodethat</title>
         <meta name="description" content="A front end software developer" />
       </Head>
 
