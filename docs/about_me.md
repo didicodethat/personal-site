@@ -3,6 +3,7 @@
 _This site is still under development._
 
 ### Links:
+ * [CV](https://docs.google.com/document/d/1sgi2QVW6CyLzuA-XVZhQY4OoHjG1sPTkf1HPIpD6Vh4/edit?usp=sharing)
  * [Twitter @didicodethat](https://twitter.com/didicodethat)
  * [Dev.to Blog](https://dev.to/didicodethat)
  * [Code Wars](https://www.codewars.com/users/didicodethat)
